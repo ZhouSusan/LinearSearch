@@ -1,4 +1,4 @@
-# LinearSearch
+# Linear Search
 <hr>
 <p>Write a method that returns the index of the first occurrence of given integer in a list.</p>
 <p>Assume that the index of the first element in the array is zero</p>
